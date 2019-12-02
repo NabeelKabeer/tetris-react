@@ -1,0 +1,13 @@
+.container{
+  display :flex;
+}
+
+.item0 {
+  width: 500px;
+}
+
+.item2 {
+  margin-top: 40px;
+  padding: 100px;
+  margin : 100px;
+}
