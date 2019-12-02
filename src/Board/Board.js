@@ -1,11 +1,11 @@
 import React from "react";
-import Grid from "./Grid";
-import { blockStructure, blocks } from "./Const";
-import Next from "./next/Next";
-import Score from "./score/Score";
-import Level from "./Level";
+import Grid from "../Grid";
+import { blockStructure, blocks } from "../Const";
+import Next from "../next/Next";
+import Score from "../score/Score";
+import Level from "../Level";
 import "./board.css";
-import "./index.css";
+import "../index.css";
 
 function getBlock() {
   const randIndex = Math.floor(Math.random() * 7);
