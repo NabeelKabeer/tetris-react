@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/tetris-react/static/css/main.4249d1eb.chunk.css"
   },
   {
-    "revision": "85936228f61d6ac0f45443b6c08e393e",
+    "revision": "501d7dd98840a97f76cba2f94443099c",
     "url": "/tetris-react/index.html"
   }
 ];
